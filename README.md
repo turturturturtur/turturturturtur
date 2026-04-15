@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.xiaohongshu.com/user/profile/62f39d0b000000001e01de71">
-    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
+    <img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu"/>
   </a>
 </p>
 
