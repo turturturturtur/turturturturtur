@@ -26,30 +26,39 @@
 
 ## 🔬 Research Interests
 
-> **Data Compression & Knowledge Distillation**  
+> **数据压缩与知识蒸馏 | Data Compression & Knowledge Distillation**  
+> 探索如何在不损失表达能力的前提下压缩大规模数据集与模型，让 AI 更高效、更普惠。  
 > Exploring how to compress large-scale datasets and models without sacrificing representational power — making AI more efficient and accessible.
 >
-> **Multimodal Learning & Video Understanding**  
+> **训练数据混合与配比 | Training Data Mixing & Proportion**  
+> 研究预训练、中训练、后训练各阶段的数据来源选择、质量过滤与比例调配策略，提升模型在不同阶段的学习效率与泛化能力。  
+> Investigating data sourcing, quality filtering, and mixing strategies across pretrain / midtrain / posttrain stages to improve learning efficiency and generalization.
+>
+> **多模态学习与视频理解 | Multimodal Learning & Video Understanding**  
+> 研究能够联合处理视觉、时序与语言信号的模型，专注于跨场景的鲁棒视频理解。  
 > Working on models that jointly process visual, temporal, and language signals, with a focus on robust video comprehension across diverse scenarios.
 >
-> **Large Language Models & AGI**  
+> **大语言模型与 AGI | Large Language Models & AGI**  
+> 探索 LLM 的能力边界，思考如何将其引导向更通用、更可靠的智能形态。  
 > Investigating the capabilities and limits of LLMs, and how to steer them toward more general, reliable intelligence.
 
 ---
 
 ## 🌱 Long-term Vision
 
+> 我想成为一个能贯通全栈的人——从前沿研究到落地产品。  
+> 正在研发基于飞书的智能工作流，探索 AI 与企业协作场景的深度结合。  
+> 我的目标是做出真正有用的 AI 工具，最终做成我自己相信的产品。  
+> 希望我做的东西，能让一些人的生活变得好一点点。
+>
 > I want to become someone who can traverse the full stack — from cutting-edge research to real-world products.  
+> Currently building intelligent workflows on Feishu, exploring the deep integration of AI into enterprise collaboration.  
 > My goal is to build AI tools that are genuinely useful, and eventually create products that I believe in.  
 > I hope that what I build can, in some small way, make things a little better for people.
 
 ---
 
 ## 👨🏻‍💻 Languages and Tools
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turturturturtur&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
