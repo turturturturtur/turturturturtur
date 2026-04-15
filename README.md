@@ -8,7 +8,7 @@
 
 <p align="center">
   🎓 Undergrad in Computer Science @ Harbin Institute of Technology (HIT)<br/>
-  🔭 Researching Data Compression · Data Distillation · Multimodal · Video Understanding<br/>
+  🔭 Researching Data Compression · Data Distillation · Multimodal · Data Mixture<br/>
   💻 On the path of large language models<br/>
   🎯 Aspiring to build my own AI product<br/>
   📧 Email: <a href="mailto:2023110605@stu.hit.edu.cn">2023110605@stu.hit.edu.cn</a>
